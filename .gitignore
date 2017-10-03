@@ -23,3 +23,7 @@ data/DoctrineORMModule/cache/
 # Legacy ZF1
 demos/
 extras/documentation
+samszo/agenda/client_secret.json
+.settings/org.eclipse.php.core.prefs
+samszo/.DS_Store
+samszo/data/EtudiantsTHYP17-18.csv
